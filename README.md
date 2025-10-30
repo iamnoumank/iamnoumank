@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;AI+Engineer;DevOps+Specialist;Project+Manager" alt="Typing SVG" />
+</p>
+
 # 💫 About Me:
 Full-Stack Developer, DevOps Engineer, AI Developer & Project Manager with expertise in React, Node.js, TypeScript, DevOps, and TailwindCSS — I’ve built over 10 real-world products across SaaS, AI, and web platforms.<br><br>💡 Highlights<br><br>	•	Full-Stack Developer, AI Engineer, and Project Manager passionate about product development.<br>	•	Skilled in React, Node.js, TypeScript, TailwindCSS, and DevOps automation.<br>	•	Experienced in building AI-powered SaaS platforms from concept to launch.<br>	•	Strong eye for UI/UX and product usability.<br><br>⚡ Fun fact: Doing all this to travel the world and meet inspiring people.<br>
 
